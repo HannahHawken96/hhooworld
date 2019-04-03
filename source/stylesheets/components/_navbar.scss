@@ -1,16 +1,17 @@
 .navbar {
   justify-content: space-between;
-  background: transparent;
+  background: white;
+  height: 8vh;
 }
 
 .link {
-  color: black;
+  color: gray;
   margin: 13px;
 }
 
 .link:hover {
   text-decoration: none;
   font-weight: bold;
-  color: black;
+  color: gray;
   transition: 0.6s;
 }
